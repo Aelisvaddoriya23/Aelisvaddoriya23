@@ -1,4 +1,4 @@
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+![Logo](https://media.licdn.com/dms/image/D4D16AQG-2nrDt13AXA/profile-displaybackgroundimage-shrink_350_1400/0/1704108442289?e=1715212800&v=beta&t=KhHwBvmxG6MsU4AtShbCU5cEpB7p3cCFzwKeWrlY9Lk)
 <h1 align="center">Hi 👋, I'm Aelis Vaddoriya</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
